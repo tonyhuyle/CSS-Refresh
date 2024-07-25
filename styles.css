@@ -48,15 +48,15 @@ body {
      animation: 3s linear 0s infinite running myColorChange; 
 }
 
-
-.box:hover { /* on hover */
-  /* animation: 3s linear 0s infinite running mySlide; */
+/*
+.box:hover {  on hover 
+   animation: 3s linear 0s infinite running mySlide; 
 }
 
-.box:active { /* on click */
- /*   animation: 3s linear 0s infinite running mySlide; */
+.box:active {  on click 
+    animation: 3s linear 0s infinite running mySlide; 
 }
-
+*/
 
 @keyframes mySlide {
     from{margin-left: 0%;}
